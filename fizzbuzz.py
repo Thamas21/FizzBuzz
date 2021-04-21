@@ -9,6 +9,7 @@ def fizzbuzz(number):
             print(number)
 
 fizzbuzz(60)
+
 def fizzybuzzy():
     counter = 1
     while counter < 101:
